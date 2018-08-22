@@ -1,5 +1,7 @@
 Advanced chat system, P2P!
 ===
+A chat system written in Haskell.
+
 *Created by: Jonas Norlinder, Adam Inersjö and Lotta Åhag*
 
 How it looks
